@@ -1,6 +1,6 @@
 const dev = {
-	baseURL: "https://main.d2wmt8jd1wat87.amplifyapp.com/api/",
-	landingPageUrl: "https://main.d2wmt8jd1wat87.amplifyapp.com",
+	baseURL: "https://main.d5b0ibjmhjyr.amplifyapp.com/api/",
+	landingPageUrl: "https://main.d5b0ibjmhjyr.amplifyapp.com",
 	stripe: {
 		free: "price_1JcQD6HIZYvvnKladKayEvOZ",
 		entry: "price_1JL68HHIZYvvnKlaBJWS5uDe",
@@ -11,7 +11,7 @@ const dev = {
 const prod = {
 	baseURL: '/api/',
 	// landingPageUrl: "https://app.openaitemplate.com",
-	landingPageUrl: "https://main.d2wmt8jd1wat87.amplifyapp.com",
+	landingPageUrl: "https://main.d5b0ibjmhjyr.amplifyapp.com",
 	stripe: {
 		free: "price_1JcQsUHIZYvvnKlaEPy958NF",
 		entry: "price_1JLpWpHIZYvvnKlaHxiCr7Js",
